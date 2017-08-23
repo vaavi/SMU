@@ -1,9 +1,0 @@
-Default IP: 192.168.0.5
-Default Gateway: 192.168.0.10
-
-/var/www is default Apache folder - use sudo and leafpad to access
-
-MySQL root password: EnEr5y1997
-
-SMU db: see office drive, 'Research and Development' folder.
-
